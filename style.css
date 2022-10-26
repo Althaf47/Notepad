@@ -1,0 +1,181 @@
+body
+{
+    background-color: black;
+    background-image: url("Image.jpg");
+    background-repeat: no-repeat;
+    background-size: 1400px 650px;
+    
+}
+
+
+.container
+{
+    height: 500px;
+    width: 500px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 100px;
+    border: 4px black solid;
+    border-radius: 8px;
+}
+
+.heading
+{
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   position: relative;
+   top: 10px;
+}
+
+
+.liner
+{
+    color: black;
+    font-weight: bolder;
+    width: 300px;
+}
+
+.task
+{
+height: 30px;
+width: 300px;
+border-radius: 2px;
+}
+input[type="button"]
+{
+    height: 36px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgb(47, 206, 153);
+    background-color: bisque;
+    border: none;
+    
+}
+.a 
+{
+    margin-top: 4px;
+}
+
+.abc
+{
+    padding: 2px;
+}
+
+.box1
+{
+    display: inline-block;
+}
+
+.one 
+{
+    height: 34px;
+    width: 260px;
+   
+    padding: 15px;
+    
+}
+.two
+{
+    height: 20px;
+    width: 300px;
+ 
+    padding: 15px;
+}
+.three
+{
+    height: 20px;
+    width: 300px;
+    
+    padding: 15px;
+}
+.four
+{
+    height: 20px;
+    width: 300px;
+   
+    padding: 15px;
+}
+.five
+{
+    height: 20px;
+    width: 300px;
+
+    padding: 15px;
+}
+.six
+{
+    height: 20px;
+    width: 300px;
+  
+    padding: 15px;
+}
+
+.b1,.b2,.b3,.b4,.b5,.b6
+{
+    position: absolute;
+   left: 820px;
+
+}
+
+
+
+.mnn
+{
+    display: inline-block;
+
+}
+
+#header
+{
+    font-size: 25px;
+    color: rgb(19, 185, 130);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.n 
+{
+    width: 50px;
+    display: inline-block;
+}
+
+#un
+{
+    width: 200px;
+}
+
+.buttonClass {
+    font-size:15px;
+    font-family:Arial;
+    width:140px;
+    height:50px;
+    border-width:1px;
+    color:#ffffff;
+    border-color:#124d77;
+    border-top-left-radius:3px;
+    border-top-right-radius:3px;
+    border-bottom-left-radius:3px;
+    border-bottom-right-radius:3px;
+    box-shadow:inset 0px 1px 0px 0px #54a3f7;
+    text-shadow:inset 0px 1px 0px #154682;
+    background:linear-gradient(#007dc1, #0061a7);
+    text-decoration: none;
+    padding: 8px;
+  }
+  
+  .buttonClass:hover {
+    background: linear-gradient(#0061a7, #007dc1);
+  }
+     
+
+  .b1,.b2,.b3,.b4,.b5,.b6
+  {
+    padding: 6px;
+    color:white;
+    background-color: black;
+    border-radius: 6px;
+    border: none;
+  }
+  
+    
+
+  .b1,.b2,.b3,.b4,.b5,.b6
+  {
+cursor: pointer;
+  }
